@@ -1,0 +1,6 @@
+{
+  "name": "Sun Relief Ice Cream",
+  "description": "Official website of Sun Relief Ice Cream, premier ice cream brand and manufacturer based in Gujarat, India. Featuring cones, candies, family packs, premium ice cream, and shrikhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
